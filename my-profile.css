@@ -1,0 +1,41 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url(https://images7.alphacoders.com/105/1057032.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background
+}
+
+
+.name {
+    color: blue;
+    justify-content: center;
+}
+
+.my-details {
+    border: 10px white solid;
+}
+
+.detail:hover {
+background-color: blueviolet;
+
+}
+
+.detail  {
+    color: white;
+    padding: 5px;
+    margin: 10px;
+    list-style-type: none
+}
+img:hover {
+   
+    background: url(https://gameofthrones.fandom.com/wiki/Oberyn_Martell)
+}
+img {
+  width: 250px;
+  height: auto;
+
+}
