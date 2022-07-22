@@ -31,11 +31,15 @@ background-color: blueviolet;
     list-style-type: none
 }
 img:hover {
-   
+
     background: url(https://gameofthrones.fandom.com/wiki/Oberyn_Martell)
 }
 img {
   width: 250px;
   height: auto;
 
+}
+
+div {
+    color:bisque;
 }
